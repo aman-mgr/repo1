@@ -1,0 +1,23 @@
+:root {
+    --bgColor: #f0f0f0;
+}
+
+.aman{
+    background-color: #f0f0f0;
+}
+.landingPage {
+    background-color: var(--bgColor);
+}
+
+.myCard {
+    transition: all 0.5s ease-in-out;
+    padding-top: 10px;
+}
+
+.myCard:hover {
+    background-color: #a8e1a8;
+    cursor: pointer;
+}
+.bgColor {
+    background-color: var(--bgColor);
+}
